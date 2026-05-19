@@ -1,0 +1,15 @@
+C:\Users\thila\source\repos\Cliente_Console_Sincrono\Cliente_Console_Sincrono\bin\Debug\Cliente_Console_Sincrono.exe.config
+C:\Users\thila\source\repos\Cliente_Console_Sincrono\Cliente_Console_Sincrono\bin\Debug\Cliente_Console_Sincrono.exe
+C:\Users\thila\source\repos\Cliente_Console_Sincrono\Cliente_Console_Sincrono\bin\Debug\Cliente_Console_Sincrono.pdb
+C:\Users\thila\source\repos\Cliente_Console_Sincrono\Cliente_Console_Sincrono\obj\Debug\Cliente_Console_Sincrono.csproj.AssemblyReference.cache
+C:\Users\thila\source\repos\Cliente_Console_Sincrono\Cliente_Console_Sincrono\obj\Debug\Cliente_Console_Sincrono.csproj.CoreCompileInputs.cache
+C:\Users\thila\source\repos\Cliente_Console_Sincrono\Cliente_Console_Sincrono\obj\Debug\Cliente_Console_Sincrono.exe
+C:\Users\thila\source\repos\Cliente_Console_Sincrono\Cliente_Console_Sincrono\obj\Debug\Cliente_Console_Sincrono.pdb
+D:\Unisanta\PraticasdeProg\Cliente_Console_Sincrono\Cliente_Console_Sincrono\bin\Debug\Cliente_Console_Sincrono.exe.config
+D:\Unisanta\PraticasdeProg\Cliente_Console_Sincrono\Cliente_Console_Sincrono\bin\Debug\Cliente_Console_Sincrono.exe
+D:\Unisanta\PraticasdeProg\Cliente_Console_Sincrono\Cliente_Console_Sincrono\bin\Debug\Cliente_Console_Sincrono.pdb
+D:\Unisanta\PraticasdeProg\Cliente_Console_Sincrono\Cliente_Console_Sincrono\obj\Debug\Cliente_Console_Sincrono.csproj.AssemblyReference.cache
+D:\Unisanta\PraticasdeProg\Cliente_Console_Sincrono\Cliente_Console_Sincrono\obj\Debug\Cliente_Console_Sincrono.csproj.SuggestedBindingRedirects.cache
+D:\Unisanta\PraticasdeProg\Cliente_Console_Sincrono\Cliente_Console_Sincrono\obj\Debug\Cliente_Console_Sincrono.csproj.CoreCompileInputs.cache
+D:\Unisanta\PraticasdeProg\Cliente_Console_Sincrono\Cliente_Console_Sincrono\obj\Debug\Cliente_Console_Sincrono.exe
+D:\Unisanta\PraticasdeProg\Cliente_Console_Sincrono\Cliente_Console_Sincrono\obj\Debug\Cliente_Console_Sincrono.pdb
