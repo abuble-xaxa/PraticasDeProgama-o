@@ -1,0 +1,8 @@
+D:\Unisanta\PraticasdeProg\tp0mm\tp0mm\bin\Debug\tp0mm.exe.config
+D:\Unisanta\PraticasdeProg\tp0mm\tp0mm\bin\Debug\tp0mm.exe
+D:\Unisanta\PraticasdeProg\tp0mm\tp0mm\bin\Debug\tp0mm.pdb
+D:\Unisanta\PraticasdeProg\tp0mm\tp0mm\obj\Debug\tp0mm.csproj.AssemblyReference.cache
+D:\Unisanta\PraticasdeProg\tp0mm\tp0mm\obj\Debug\tp0mm.csproj.SuggestedBindingRedirects.cache
+D:\Unisanta\PraticasdeProg\tp0mm\tp0mm\obj\Debug\tp0mm.csproj.CoreCompileInputs.cache
+D:\Unisanta\PraticasdeProg\tp0mm\tp0mm\obj\Debug\tp0mm.exe
+D:\Unisanta\PraticasdeProg\tp0mm\tp0mm\obj\Debug\tp0mm.pdb

@@ -1,0 +1,8 @@
+D:\Unisanta\PraticasdeProg\thread\thread\bin\Debug\thread.exe.config
+D:\Unisanta\PraticasdeProg\thread\thread\bin\Debug\thread.exe
+D:\Unisanta\PraticasdeProg\thread\thread\bin\Debug\thread.pdb
+D:\Unisanta\PraticasdeProg\thread\thread\obj\Debug\thread.csproj.AssemblyReference.cache
+D:\Unisanta\PraticasdeProg\thread\thread\obj\Debug\thread.csproj.SuggestedBindingRedirects.cache
+D:\Unisanta\PraticasdeProg\thread\thread\obj\Debug\thread.csproj.CoreCompileInputs.cache
+D:\Unisanta\PraticasdeProg\thread\thread\obj\Debug\thread.exe
+D:\Unisanta\PraticasdeProg\thread\thread\obj\Debug\thread.pdb
