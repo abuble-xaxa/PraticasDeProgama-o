@@ -1,0 +1,8 @@
+D:\Unisanta\PraticasdeProg\Aula5-1\Aula5-1\bin\Debug\Aula5-1.exe.config
+D:\Unisanta\PraticasdeProg\Aula5-1\Aula5-1\bin\Debug\Aula5-1.exe
+D:\Unisanta\PraticasdeProg\Aula5-1\Aula5-1\bin\Debug\Aula5-1.pdb
+D:\Unisanta\PraticasdeProg\Aula5-1\Aula5-1\obj\Debug\Aula5-1.csproj.AssemblyReference.cache
+D:\Unisanta\PraticasdeProg\Aula5-1\Aula5-1\obj\Debug\Aula5-1.csproj.SuggestedBindingRedirects.cache
+D:\Unisanta\PraticasdeProg\Aula5-1\Aula5-1\obj\Debug\Aula5-1.csproj.CoreCompileInputs.cache
+D:\Unisanta\PraticasdeProg\Aula5-1\Aula5-1\obj\Debug\Aula5-1.exe
+D:\Unisanta\PraticasdeProg\Aula5-1\Aula5-1\obj\Debug\Aula5-1.pdb
